@@ -16,8 +16,9 @@ public class ServiceDispatcher {
         Object[] argsList = reciveObj.getArgs();
         //use the reflection of java to new the instance of destination class.
         Class[] listTypeOfParams = null;
-        if(argsList != null){
-            int len = argsList.length;
+        int len = argsList.length;
+        if(argsList != null && len > 0){
+            listTypeOfParams = new Class[len];
             for (int i = 0; i < len; i++) {
                 listTypeOfParams[i] = argsList[i].getClass();
             }

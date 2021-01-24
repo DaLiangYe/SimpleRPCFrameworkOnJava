@@ -4,7 +4,50 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="225c929d-9f80-4808-a461-be82ff4e3ff8" name="Default Changelist" comment="" />
+    <list default="true" id="7a5aea73-3b58-4b4e-bca2-b836a30a5b02" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__cn_DaLiangYe_RPCMiddleAPI_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/cn/RPCConsumer/netHelp/NetHelper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/cn/RPCConsumer/netHelp/NetHelper.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCMiddleAPI/.idea/RPCMiddleAPI.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCMiddleAPI/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCMiddleAPI/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCMiddleAPI/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCMiddleAPI/src/main/java/cn/middleAPI/CommonFrameWork/ClassPathMapped.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCMiddleAPI/target/classes/cn/middleAPI/CommonFrameWork/ClassPathMapped.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCProvider/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCProvider/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCProvider/.idea/libraries/Maven__cn_DaLiangYe_RPCMiddleAPI_1_0_SNAPSHOT.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCProvider/.idea/libraries/Maven__org_projectlombok_lombok_1_18_16.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCProvider/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCProvider/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCProvider/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCProvider/target/classes/cn/providerImple/NetRelate/NetService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCProvider/target/classes/cn/providerImple/NetRelate/ThreadProcdure.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCProvider/target/classes/cn/providerImple/ServiceDispatcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../RPCProvider/target/classes/cn/providerImple/imple/ProdureTransObjImple.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RPCConsumer.iml" beforeDir="false" afterPath="$PROJECT_DIR$/RPCConsumer.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/RPCConsumer/CommonFrameWork/ProxyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/RPCConsumer/CommonFrameWork/ProxyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/RPCConsumer/CommonFrameWork/RPCInvokeHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/RPCConsumer/CommonFrameWork/RPCInvokeHandler.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/cn/RPCConsumer/caller/LogicCaller.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/cn/RPCConsumer/caller/LogicCaller.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCMiddleAPI/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCMiddleAPI/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCMiddleAPI/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCMiddleAPI/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCMiddleAPI/src/main/java/cn/middleAPI/Interface/ProdureTransObj.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCMiddleAPI/src/main/java/cn/middleAPI/Interface/ProdureTransObj.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCMiddleAPI/target/RPCMiddleAPI-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCMiddleAPI/target/RPCMiddleAPI-1.0-SNAPSHOT.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCMiddleAPI/target/classes/cn/middleAPI/CommonFrameWork/CommonTransObject.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCMiddleAPI/target/classes/cn/middleAPI/CommonFrameWork/CommonTransObject.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCMiddleAPI/target/classes/cn/middleAPI/Interface/ProdureTransObj.class" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCMiddleAPI/target/classes/cn/middleAPI/Interface/ProdureTransObj.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCMiddleAPI/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCMiddleAPI/target/maven-status/maven-compiler-plugin/compile/default-compile/createdFiles.lst" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCProvider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCProvider/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCProvider/RPCProvider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCProvider/RPCProvider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCProvider/src/main/java/cn/providerImple/NetRelate/NetService.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCProvider/src/main/java/cn/providerImple/NetRelate/NetService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCProvider/src/main/java/cn/providerImple/ServiceDispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCProvider/src/main/java/cn/providerImple/ServiceDispatcher.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,22 +63,19 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
-  <component name="ProjectId" id="1nVlW28k3SJxTFrfJLMYFIsapNB" />
+  <component name="ProjectId" id="1nW1LvmL9R6MpKarRV7VtG4mFKb" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
-    <ConfirmationsSetting value="1" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
   </component>
   <component name="RunManager">
     <configuration name="LogicCaller" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -60,11 +100,11 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="225c929d-9f80-4808-a461-be82ff4e3ff8" name="Default Changelist" comment="" />
-      <created>1611483169587</created>
+      <changelist id="7a5aea73-3b58-4b4e-bca2-b836a30a5b02" name="Default Changelist" comment="" />
+      <created>1611490987623</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1611483169587</updated>
+      <updated>1611490987623</updated>
     </task>
     <servers />
   </component>
@@ -78,5 +118,9 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>

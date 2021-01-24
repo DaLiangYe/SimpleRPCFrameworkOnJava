@@ -16,7 +16,7 @@ public class NetService {
         ServerSocket serverSocket = new ServerSocket(port);
         while(true){//make the main service run and new a thread to Handle callings.
             Socket socket = serverSocket.accept();
-            final Future<?> submit = THREADPOOL.submit(new ThreadProcdure(socket));
+            THREADPOOL.submit(new ThreadProcdure(socket));
         }
     }
 
