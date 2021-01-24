@@ -9,8 +9,8 @@ consumer-service: factory designal model, dynamic proxy, socket, serialization.
 provider-service:ThreadPool, reflect, server-socket, serialization.
 middle-API:annotation.
 
-#---------- the edition information:  BEGAIN  ----------
-#	 the first create time and author:2021/01/24/22:40 DaLaingye
-#	 the times of modification: 5s
-#	 the lasted modifyed time and author:2021/01/24/15:03 DaLaingye
-#---------- the edition information:     END    ----------
+#----------  the edition information:  BEGAIN  ----------
+#	  the first create time and author:2021/01/24/22:40 DaLaingye
+#	  the times of modification: 5s
+#	  the lasted modifyed time and author:2021/01/24/15:03 DaLaingye
+#----------  the edition information:     END    ----------
