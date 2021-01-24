@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="225c929d-9f80-4808-a461-be82ff4e3ff8" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/RPCConsumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RPCMiddleAPI/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RPCMiddleAPI/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RPCMiddleAPI/RPCMiddleAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RPCProvider/RPCProvider.iml" afterDir="false" />
-    </list>
+    <list default="true" id="225c929d-9f80-4808-a461-be82ff4e3ff8" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />

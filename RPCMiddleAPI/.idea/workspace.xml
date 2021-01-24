@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b460b1b9-1858-4e85-855d-9f854ccd023d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../RPCConsumer/RPCConsumer.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/RPCMiddleAPI.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../RPCProvider/RPCProvider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCConsumer/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCConsumer/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../RPCProvider/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../RPCProvider/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
