@@ -2,9 +2,9 @@
 Simple RPC Framework Based On Java
 
 Hello guys:
-My name is DaLaingYe, This is an interested project in which you can learn how to builed a simplifyed RPC Framework based on JAVA. So, what is RPC Framework? RPC Framework makes it possible that a java service can call other java service in different JVM platform. Expect the way of get instanse is differe from normal "new" operatin or SpringCloud container. you can use the instances' method without extra efforts.
+My name is DaLaingYe, This is an interested project in which you can learn how to builed a simplifyed RPC Framework based on JAVA. So, what is RPC Framework? RPC Framework makes it possible that a java service can call other java service in different JVM platform. Expect the way of get instanse is differe from normal "new" operatin or getting from SpringCloud container. you can use the instances' method without extra efforts.
 
-I used some technologise you may want to kown:
+I have used some technologise you may want to kown:
 consumer-service: factory designal model, dynamic proxy, socket, serialization.
 provider-service:ThreadPool, reflect, server-socket, serialization.
 middle-API:annotation.
